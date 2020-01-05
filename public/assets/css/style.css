@@ -1,0 +1,56 @@
+/* Global Style Settings  */
+html {
+    min-height: 100%; 
+}
+
+body {
+    min-height: 100%; 
+    padding: 70px; 
+    background-color: lightpink; 
+}
+
+/* End Global Style Settings  */
+
+#navbar {
+    border-color: white; 
+    border-style: solid; 
+    background-color: white; 
+    border-bottom: 3px solid hotpink; 
+    color: black; 
+}
+
+/* Buttons  */
+.btn {
+    background-color: hotpink; 
+    border-color: white; 
+    color: white; 
+}
+
+#btn { 
+    background-color: hotpink; 
+    border-color: white; 
+    color: white; 
+}
+
+#btnAPI {
+    background-color: hotpink; 
+    border-color: white; 
+    color: white; 
+}
+
+#scrapeBtn {
+    background-color: hotpink; 
+    border-color: white; 
+    color: white; 
+}
+
+/* End of Buttons  */
+
+.well {
+    background-color: lightpink; 
+    border-color: white; 
+}
+
+#text {
+    background-color: lightpink; 
+}
